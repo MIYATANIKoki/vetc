@@ -1,0 +1,9 @@
+# CppAD や テスト用の Eigen などは追跡対象外
+
+/include/eigen3/
+/include/cppad/
+/include/cppad_ipopt_nlp.hpp
+
+# .vscodeは追跡対象外
+
+*.vscode/
